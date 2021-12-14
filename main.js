@@ -1,7 +1,7 @@
 import '//reececrowther.github.io/Hex-World/style.css'
 
 import * as THREE from '//cdn.skypack.dev/three/build/three.module.js';
-import randomFloat from '//reececrowther.github.io/Hex-World/random-float';
+import randomFloat from '//reececrowther.github.io/Hex-World/random-float/index.js';
 import { GLTFLoader } from '//cdn.skypack.dev/three/examples/jsm/loaders/GLTFLoader.js';
 import { EffectComposer } from '//cdn.skypack.dev/three/examples/jsm/postprocessing/EffectComposer.js';
 import { RenderPass } from '//cdn.skypack.dev/three/examples/jsm/postprocessing/RenderPass.js';
