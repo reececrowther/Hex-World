@@ -1,7 +1,7 @@
 import '/style.css'
 
 import * as THREE from '//reececrowther.github.io/Website/node_modules/three/build/three.module.js';
-import randomFloat from 'random-float';
+import randomFloat from '//reececrowther.github.io/Hex-World/random-float';
 import { GLTFLoader } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/loaders/GLTFLoader.js';
 import { EffectComposer } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/postprocessing/EffectComposer.js';
 import { RenderPass } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/postprocessing/RenderPass.js';
