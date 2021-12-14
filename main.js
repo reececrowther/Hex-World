@@ -1,4 +1,4 @@
-import '//reececrowther.github.io/Hex-World/style.css'
+import '/style.css'
 
 import * as THREE from '//cdn.skypack.dev/three/build/three';
 import randomFloat from '//reececrowther.github.io/Hex-World/random-float';
