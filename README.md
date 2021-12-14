@@ -3,4 +3,4 @@ Hexagon World made with THREE.js
 
 [LINK](https://reececrowther.github.io/Hex-World/)
 
-![Screenshot]()
+![Screenshot](screenshot.png)
