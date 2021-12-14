@@ -1,10 +1,10 @@
-import './style.css'
+import '//reececrowther.github.io/Hex-World//style.css'
 
-import * as THREE from 'three';
+import * as THREE from '//reececrowther.github.io/Website/node_modules/three/build/three.module.js';
 import randomFloat from 'random-float';
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
-import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer.js';
-import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
+import { GLTFLoader } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/loaders/GLTFLoader.js';
+import { EffectComposer } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/postprocessing/EffectComposer.js';
+import { RenderPass } from '//reececrowther.github.io/Website/node_modules/three/examples/jsm/postprocessing/RenderPass.js';
 
 
 
@@ -174,7 +174,7 @@ const lightHelper = new THREE.PointLightHelper(pointLight)
 //scene.add(lightHelper);
 
 //background
-const sceneBG = new THREE.TextureLoader().load('Images/blue-sky-gradient.jpg');
+const sceneBG = new THREE.TextureLoader().load('//reececrowther.github.io/Hex-World/Images/blue-sky-gradient.jpg');
 scene.background = sceneBG;
 
 
