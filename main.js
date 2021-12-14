@@ -1,6 +1,4 @@
-import sheet from '/styles.css' assert { type: 'css' };
-document.adoptedStyleSheets = [sheet];
-shadowRoot.adoptedStyleSheets = [sheet];
+
 
 import * as THREE from '//cdn.skypack.dev/three/build/three.module.js';
 import randomFloat from '//reececrowther.github.io/Hex-World/random-float/index.js';
