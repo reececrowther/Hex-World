@@ -1,0 +1,80 @@
+{
+  "_from": "random-float",
+  "_id": "random-float@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-8U2ToxX8h6h9gpzyGyxCcd/LatiWcm0sOVG+SlsGyRs+3k8ae/EOH9KDsoquvbdCCqKQW1rx49iRPyBt/TF6NQ==",
+  "_location": "/random-float",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "random-float",
+    "name": "random-float",
+    "escapedName": "random-float",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/random-float/-/random-float-3.0.0.tgz",
+  "_shasum": "65db807d576451ef4f7eb6ac81932f92ddc0dd70",
+  "_spec": "random-float",
+  "_where": "E:\\Projects\\HexWorldWebsite\\hex-world",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/random-float/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Generate a random float",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "in-range": "^3.0.0",
+    "number-is-float": "^2.0.0",
+    "stable-fn": "^3.0.0",
+    "tsd": "^0.14.0",
+    "xo": "^0.38.2"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "exports": "./index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "funding": "https://github.com/sponsors/sindresorhus",
+  "homepage": "https://github.com/sindresorhus/random-float#readme",
+  "keywords": [
+    "random",
+    "randomize",
+    "float",
+    "floating",
+    "point",
+    "real",
+    "number",
+    "max",
+    "min",
+    "math",
+    "generate",
+    "generator"
+  ],
+  "license": "MIT",
+  "name": "random-float",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/random-float.git"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "type": "module",
+  "version": "3.0.0"
+}
