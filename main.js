@@ -1,4 +1,4 @@
-import './style.css'
+import '/style.css'
 
 import * as THREE from '//cdn.skypack.dev/three/build/three.module.js';
 import randomFloat from '//reececrowther.github.io/Hex-World/random-float/index.js';
