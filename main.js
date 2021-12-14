@@ -1,4 +1,4 @@
-import '/style.css'
+import '//reececrowther.github.io/Hex-World//style.css'
 
 import * as THREE from '//reececrowther.github.io/Website/node_modules/three/build/three.module.js';
 import randomFloat from '//reececrowther.github.io/Hex-World/random-float';
