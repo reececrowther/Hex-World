@@ -1,6 +1,6 @@
 
 
-import * as THREE from 'https://cdn.skypack.dev/three';
+import * as THREE from 'https://cdn.skypack.dev/three@0.125.0/build/three.module.js?min';
 import randomFloat from '//reececrowther.github.io/Hex-World/random-float/index.js';
 import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.125.0/examples/jsm/loaders/GLTFLoader.js?min';
 import { EffectComposer } from 'https://cdn.skypack.dev/three@0.125.0/examples/jsm/postprocessing/EffectComposer.js?min';
